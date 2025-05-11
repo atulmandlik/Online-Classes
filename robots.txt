@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://atulmandlik.github.io/Online-Classes/sitemap.xml
